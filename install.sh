@@ -11,4 +11,4 @@ sudo apt update
 sudo apt install gh
 
 # Executing this on your Ubuntu
-# bash <(curl 
+# bash <(curl https://raw.githubusercontent.com/cloudatwork/installing-github-cli/main/install.sh)
